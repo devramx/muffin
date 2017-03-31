@@ -10,6 +10,4 @@ node server/app.js
 ```
 `` Server listens to port 3001 ``
 
-
-
-
+To start the client, just open client/index.html in any browser.
