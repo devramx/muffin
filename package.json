@@ -1,0 +1,16 @@
+{
+  "name": "muffin",
+  "version": "1.0.0",
+  "description": "Testbench to evaluate cors behaviors.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.2"
+  }
+}

@@ -1,0 +1,35 @@
+.ParentDivision {
+    width: 1000px;
+    height: 320px;
+    border: 1px solid #000000;
+    margin-left: 10px;
+}
+
+.Division {
+    float: left;
+    width: 485px;
+    height: 300px;
+    border: 1px solid #000000;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.row {
+    width: 100%;
+    text-align: left;
+}
+
+.block_yellow {
+    width: 400px;
+    text-align: center;
+    display: inline-block;
+    background-color: lightgoldenrodyellow
+}
+
+.block_blue {
+    width: 400px;
+    text-align: center;
+    display: inline-block;
+    background-color: darkcyan
+}
